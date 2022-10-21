@@ -28,3 +28,6 @@ target/
 nbbuild/
 dist/
 nbdist/
+
+# Eclipse
+.settings/
